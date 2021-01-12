@@ -1,4 +1,4 @@
-resource "tfe_workspace" {
+resource "tfe_workspace" "hashicat"{
   terraform_version = "~> 0.12.29"
 }
 
