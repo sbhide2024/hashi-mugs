@@ -1,5 +1,5 @@
-terraform {
-  version = "~> 0.12.29"
+resource "tfe_workspace" {
+  terraform_version = "~> 0.12.29"
 }
 
 provider "aws" {
