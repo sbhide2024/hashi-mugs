@@ -9,7 +9,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://res.cloudinary.com/digpynro3/image/upload/v1610429312/clarissa-carbungco-k1lMSxfRU0o-unsplash_deriuu.jpg" width="400" height="600"></img></center>
+  <center><img src="https://res.cloudinary.com/digpynro3/image/upload/v1610429312/clarissa-carbungco-k1lMSxfRU0o-unsplash_deriuu.jpg" width="400" height="550"></img></center>
   <center><h2>Are you ready for your new Hashi Mug? </h2></center>
   Welcome to HashiCups World app.
   <!-- END -->
