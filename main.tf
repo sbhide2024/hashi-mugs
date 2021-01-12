@@ -1,5 +1,5 @@
 resource "tfe_workspace" "hashicat"{
-  terraform_version = "~> 0.12.29"
+  terraform_version = "~> 0.12.6"
 }
 
 provider "aws" {
