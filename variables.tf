@@ -7,7 +7,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
-  default     = "coffee-mugs-app"
+  default     = "coffee-mugs-app#1"
 }
 
 variable "region" {
